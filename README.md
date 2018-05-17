@@ -1,5 +1,12 @@
 # Java Koans
 
+asdhjfljsdfljl
+asdfjkljlksdf
+
+
+asdfsdsdfdsf
+sdfsddsf
+
 [![Join the chat at https://gitter.im/JavaKoan/java-koans](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/JavaKoan/java-koans?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 This is set of Koans intended to improve fundamental understanding of the Java programming language.
