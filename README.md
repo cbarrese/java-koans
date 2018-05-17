@@ -12,9 +12,6 @@ sdfsddsf
 This is set of Koans intended to improve fundamental understanding of the Java programming language.
 
 
-Hi!!
-
-
 What are Koans?
 ---------------
 
